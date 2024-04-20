@@ -7,7 +7,7 @@ The notebooks are based on some of the big trends in the 2022-2023 AI/LLM boom.
 
 I try and cover:
 1. Basics: A background on LLMs
-2. Math: Some 
+2. Math: Some of the necessary mathematics for llms
 3. The transformer: The base architecture of modern llms
 4. Transformer Models: Introduction to some popular transformer models and a deep dive into GPT
 5. Finetuning: Improve your models on your data (hopefully)
